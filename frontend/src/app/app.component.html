@@ -1,0 +1,16 @@
+<!-- Basic Test -->
+<pre>Amount to charge: {{chargeAmount}}€</pre>
+<ngx-braintree 
+    [clientTokenURL]="clientTokenURL" 
+    [createPurchaseURL]="createPurchaseURL" 
+    [chargeAmount]="chargeAmount"
+    (paymentStatus)="onPaymentStatus($event)"
+    [showCardholderName]="true"
+    (dropinLoaded)="onDropinLoaded($event)"
+    [buttonText]="'Buy'"
+    [enablePaypalCheckout] = "true"
+    [currency]="'EUR'"
+    [allowChoose]="true">
+</ngx-braintree>
+
+<pre>{{ paymentResponse | json }}</pre>

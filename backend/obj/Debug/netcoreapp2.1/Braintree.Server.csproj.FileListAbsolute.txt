@@ -1,0 +1,14 @@
+/Users/enricobencivenga/Projects/BrainTree/Progetto/backend/obj/Debug/netcoreapp2.1/Braintree.Server.csprojAssemblyReference.cache
+/Users/enricobencivenga/Projects/BrainTree/Progetto/backend/obj/Debug/netcoreapp2.1/Braintree.Server.csproj.CoreCompileInputs.cache
+/Users/enricobencivenga/Projects/BrainTree/Progetto/backend/obj/Debug/netcoreapp2.1/Braintree.Server.RazorAssemblyInfo.cache
+/Users/enricobencivenga/Projects/BrainTree/Progetto/backend/obj/Debug/netcoreapp2.1/Braintree.Server.RazorAssemblyInfo.cs
+/Users/enricobencivenga/Projects/BrainTree/Progetto/backend/obj/Debug/netcoreapp2.1/Braintree.Server.AssemblyInfoInputs.cache
+/Users/enricobencivenga/Projects/BrainTree/Progetto/backend/obj/Debug/netcoreapp2.1/Braintree.Server.AssemblyInfo.cs
+/Users/enricobencivenga/Projects/BrainTree/Progetto/backend/bin/Debug/netcoreapp2.1/Braintree.Server.deps.json
+/Users/enricobencivenga/Projects/BrainTree/Progetto/backend/bin/Debug/netcoreapp2.1/Braintree.Server.runtimeconfig.json
+/Users/enricobencivenga/Projects/BrainTree/Progetto/backend/bin/Debug/netcoreapp2.1/Braintree.Server.runtimeconfig.dev.json
+/Users/enricobencivenga/Projects/BrainTree/Progetto/backend/bin/Debug/netcoreapp2.1/Braintree.Server.dll
+/Users/enricobencivenga/Projects/BrainTree/Progetto/backend/bin/Debug/netcoreapp2.1/Braintree.Server.pdb
+/Users/enricobencivenga/Projects/BrainTree/Progetto/backend/obj/Debug/netcoreapp2.1/Braintree.Server.RazorTargetAssemblyInfo.cache
+/Users/enricobencivenga/Projects/BrainTree/Progetto/backend/obj/Debug/netcoreapp2.1/Braintree.Server.dll
+/Users/enricobencivenga/Projects/BrainTree/Progetto/backend/obj/Debug/netcoreapp2.1/Braintree.Server.pdb
